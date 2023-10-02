@@ -1,71 +1,63 @@
-# Getting Started with Create React App
+# Chat App
+![Login_Page](https://github.com/nadaaosman/Chat-Application/assets/84284180/f5e03a72-7c2c-44aa-a2cb-4ba144ec9b68)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Register_Page](https://github.com/nadaaosman/Chat-Application/assets/84284180/fe11433a-2133-4bea-90d2-391b6d8427ca)
 
-## Available Scripts
+![Home](https://github.com/nadaaosman/Chat-Application/assets/84284180/1265f773-1dec-479a-99f4-5db566caf53c)
 
-In the project directory, you can run:
+![Home_Page](https://github.com/nadaaosman/Chat-Application/assets/84284180/dc1531c3-23d6-49d0-b81e-930eea2e34f4)
 
-### `npm start`
+## 📙 About <a name = "about"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A simple chat application to communicate with others by text and images and it supports multi-users using react js , sass for styling and firebase to authnticate and store the user info and his messages.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💻 Technology <a name = "technolgies"></a>
+## Technologies Used
 
-### `npm test`
+- ![React](https://img.shields.io/badge/React-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white) - A JavaScript library for building user interfaces. [Learn more](https://reactjs.org/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) - A popular CSS preprocessor that simplifies and enhances stylesheet development. [Learn more](https://sass-lang.com/)
 
-### `npm run build`
+- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) - A comprehensive cloud platform by Google, used for real-time database storage and authentication. [Learn more](https://firebase.google.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👌 Features <a name = "features"></a>
+-Text and Image Chat: Send both text and images in your conversations.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-Real-Time Messaging: Instantly exchange messages between users.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-User Profiles: Customize profiles with avatars and status messages.
 
-### `npm run eject`
+-Search: Easily find specific messages or chats.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-Responsive Design: Ensure a seamless experience on all devices.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Getting Started <a name = "started"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Clone this repository to your local machine:
+```
+git clone https://github.com/nadaaosman/Chat-Application.git
+```
+Install the project dependencies:
+```
+npm install
+```
+Start the development server:
+```
+npm start
+```
+## 🖥️ App Demo  <a name = "demo"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+https://github.com/nadaaosman/Weather-application/assets/84284180/6b9b74ca-84cd-4094-87f6-1ee6468d7eb4
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://github.com/nadaaosman/Weather-application/assets/84284180/c0cef7cb-8533-4c0f-821d-4463ec36c583
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Dependencies <a name = "dependencies"></a>
 
-### Code Splitting
+-React: https://reactjs.org/
+-Sass: https://sass-lang.com/
+-Firebase: https://firebase.google.com/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Chat-Application
+> This software is licensed under MIT License, See [License](https://github.com/Waer1/Crazy-Delivery/blob/master/LICENSE.txt) for more information.
