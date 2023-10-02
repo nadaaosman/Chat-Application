@@ -54,9 +54,9 @@ https://github.com/nadaaosman/Weather-application/assets/84284180/c0cef7cb-8533-
 
 ## Dependencies <a name = "dependencies"></a>
 
--React: https://reactjs.org/
--Sass: https://sass-lang.com/
--Firebase: https://firebase.google.com/
+- React: https://reactjs.org/
+- Sass: https://sass-lang.com/
+- Firebase: https://firebase.google.com/
 
 ## License
 
